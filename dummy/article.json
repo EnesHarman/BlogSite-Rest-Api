@@ -1,0 +1,63 @@
+[
+    {
+        "_id" : "5e302a02685d0667c54d42ea",
+        "title" : "Article 1 - Title",
+        "content" : "Article 1 - Content",
+        "user" : "5e300f0ffbb6b05ee9037fd2"
+    },
+    {
+        "_id" : "5e302a50f4d40cf362859e04",
+        "title" : "Article 2 - Title",
+        "content" : "Article 2 - Article Content",
+        "user" : "5e30275d141401679e3832a1"
+    },
+    {
+        "_id" : "5e302a556f38949cf14f01de",
+        "title" : "Article 3 - Title",
+        "content" : "Article 3 - Article Content",
+        "user" : "5e2866280427c1ff0dd2b5cb"
+    },
+    {
+        "_id" : "5e302a5a97b9c9f7b219002b",
+        "title" : "Article 4 - Title",
+        "content" : "Article 4 - Article Content",
+        "user" : "5e2effcccbdf585842cdb6ce"
+    },
+    {
+        "_id" : "5e302a619d3b40d1d39908e0",
+        "title" : "Article 5 - Title",
+        "content" : "Article 5 - Article Content",
+        "user" : "5e302931752a052e11096e96"
+    },
+    {
+        "_id" : "5e302a667906fa73c64fca1d",
+        "title" : "Article 6 - Title",
+        "content" : "Article 6 - Article Content",
+        "user" : "5e2effcccbdf585842cdb6ce"
+    },
+    {
+        "_id" : "5e302a6cfb6e636c379151cf",
+        "title" : "Article 7 - Title",
+        "content" : "Article 7 - Article Content",
+        "user" : "5e300f0ffbb6b05ee9037fd2"
+    },
+    {
+        "_id" : "5e302a78403be1bbdcb039a7",
+        "title" : "Article 8 - Title",
+        "content" : "Article 8 - Article Content",
+        "user" : "5e300f0ffbb6b05ee9037fd2"
+    },
+    {
+        "_id" : "5e30424f3352757bc81e5cfc",
+        "title" : "Article 9 - Title",
+        "content" : "Article 9 - Article Content",
+        "user" : "5e2866280427c1ff0dd2b5cb"
+    },
+    {
+        "_id" : "5e302a8075ac8d9e9bd199b9",
+        "title" : "Article 10 - Title",
+        "content" : "Article 10 - Article Content",
+        "user" : "5e30275d141401679e3832a1"
+    }
+]
+
